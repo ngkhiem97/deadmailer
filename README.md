@@ -7,4 +7,4 @@ Hung C++ Project
   Run by: 
   1. Open CMD
   2. Change Directory to src
-  3. python app.py
+  3. run commmand: python app.py
